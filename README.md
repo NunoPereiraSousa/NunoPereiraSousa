@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying Web Development at ESMAD, Porto
 - 🌱 I’m currently learning advanced CSS frameworks
 - 👯 I’m looking to collaborate on cool projects
-- 💻 I already worked with HTML & CSS, Python, JavaScript, C#, C, MySQL.
+- 💻 I already worked with HTML & CSS, JavaScript, Python, C#, C, MySQL.
   Some frameworks I also worked with: CSS Frameworks, Vue.JS, Node.JS, Three.JS, Bootstrap 4, ...
 - 💬 Ask me about everything, programming or non-programming related
 - 📫 How to reach me: [Instagram](https://www.instagram.com/nunopereirasousa/), [Email](mailto:nunopsousa@live.com.pt) or [Facebook](https://www.facebook.com/nuno.sousa.9655806/)
