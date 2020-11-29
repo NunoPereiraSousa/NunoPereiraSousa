@@ -1,6 +1,6 @@
 ### Hi there, welcome to my profile! 👋
 
-- 🔭 I’m currently a 20 years old Web Development college student with the highest GPA at ESMAD, Porto
+- 🔭 I’m a 20 years old Web Development college student with the highest GPA at ESMAD, Porto
 - 🌱 I’m currently learning advanced Web Design
 - 👯 I’m looking to collaborate on cool projects
 - 💻 I have experience with HTML & CSS, JavaScript, Python, C#, MySQL.
