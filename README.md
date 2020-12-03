@@ -11,4 +11,6 @@
 - :globe_with_meridians: I'm fluent at English :uk: and Portuguese. Intermediate skills in Spanish :es:. And basic skills in Russian :ru: and French :fr:
 - ⚡ Facts about me: Student, Swimming National Champion + 3rd Best European Time (4x200m relay) 2015, Psychology and Mental Coaching Reader, Languages Learner, Pianist and Gamer
 
+![](https://komarev.com/ghpvc/?username=NunoPereiraSousa&color=red&style=flat-square)
+
 Online portfolio being developed... Huge things coming soon! :eyes:
