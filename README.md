@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on cool projects
 - :notebook_with_decorative_cover: I teach & tutor programming to people all over the world with over 100 hours tutored! Everything web dev related
 - 💬 Ask me about everything, programming or non-programming related, or about the tutor & teaching sessions I give
-- 📫 How to reach me: [Instagram](https://www.instagram.com/nunopereirasousa/), [Email](mailto:nunopereirasousa00@gmail.com), [LinkedIn] (https://www.linkedin.com/in/nunopereirasous/), [Facebook](https://www.facebook.com/nuno.sousa.9655806/) or Discord - ItWasAPleasure#1150
+- 📫 How to reach me: [Instagram](https://www.instagram.com/nunopereirasousa/), [Email](mailto:nunopereirasousa00@gmail.com), [LinkedIn](https://www.linkedin.com/in/nunopereirasous/), [Facebook](https://www.facebook.com/nuno.sousa.9655806/) or Discord - ItWasAPleasure#1150
 - :globe_with_meridians: I'm fluent at English :uk: and Portuguese. Intermediate skills in Spanish :es:. And basic skills in Russian :ru: and French :fr:
 - ⚡ Facts about me: Student, Swimming National Champion + 3rd Best European Time (4x200m relay) 2015, Psychology and Mental Coaching Reader, Languages Learner and Pianist
 
