@@ -2,7 +2,7 @@
 
 - 🔭 I’m a 20 years old Web Development college student with the highest GPA from Porto
 - 💻 I have experience with HTML5 & CSS3, JavaScript, SCSS, MySQL, Vue.JS, Node.JS, Three.JS, Bootstrap 4, MongoDB, Sequelize, GraphQL and Python
-- 🌱 I’m currently learning advanced Web Design
+- 🌱 I’m currently building a creative website
 - 👯 I’m looking to collaborate on cool projects
 - :notebook_with_decorative_cover: I teach & tutor programming to people all over the world with over 130 hours tutored! Everything web dev related
 - 💬 Ask me about everything, programming or non-programming related, or about the tutor & teaching sessions I give
