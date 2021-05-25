@@ -12,4 +12,4 @@
 
 ![](https://komarev.com/ghpvc/?username=NunoPereiraSousa&color=red&style=flat-square)
 
-Online portfolio: https://www.nunopsousa.nunops.com/
+Online portfolio: https://www.nunops.com/
