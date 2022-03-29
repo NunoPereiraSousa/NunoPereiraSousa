@@ -1,4 +1,4 @@
-### Hi there, my name is Nuno and I am a 20 years old front-end developer and UI designer from Portugal who recently joined Awwwards Young Jury Team 2022! 🚀
+### Hi there, my name is Nuno and I am a 21 years old front-end developer and UI designer from Portugal who recently joined Awwwards Young Jury Team 2022! 🚀
 
 ### Awards: 
 - 1x Awwwards Honorable Mention
