@@ -12,7 +12,7 @@
 
 Portfolio website: https://www.nunops.com/
 
-📫 How to reach me: [Email](mailto:nunopereirasousa00@gmail.com), [LinkedIn](https://www.linkedin.com/in/nunopereirasous/), [Instagram](https://www.instagram.com/nunopereirasousa/), or Discord - ItWasAPleasure#1150
+📫 How to reach me: [Email](mailto:nunopereirasousa00@gmail.com), [LinkedIn](https://www.linkedin.com/in/nunops/), [Instagram](https://www.instagram.com/nuninhops/), or Discord - ItWasAPleasure#1150
 
 "The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Black Mamba
 
