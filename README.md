@@ -1,12 +1,13 @@
 ### Hi there, my name is Nuno and I am a 23 years old front-end developer and UI designer from Portugal who is also part of the Awwwards Young Jury Team 2023! 🚀
 
 ### Awards: 
-- 1x Awwwards Honorable Mention
+- 2x Awwwards Honorable Mention
 - 1x Awwwards Mobile Excellence Award
 - 1x CSSDA: Website of the Day
-- 1x CSSDA: Best UI Design
-- 1x CSSDA: Best UX Design
-- 1x CSSDA: Best Innovation
+- 2x CSSDA: Best UI Design
+- 2x CSSDA: Best UX Design
+- 2x CSSDA: Best Innovation
+- 1x CSSDA: Special Kudos
 - 1x Orpetron Web Design Appreciation
 - 1x Orpetron Site Of The Day
 
