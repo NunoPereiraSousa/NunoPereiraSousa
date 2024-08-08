@@ -1,4 +1,4 @@
-### Hi there, my name is Nuno and I am a 23 years old front-end developer and UI designer from Portugal who is also part of the Awwwards Young Jury Team 2023! 🚀
+### Hi there, my name is Nuno and I am a 23 years old software engineer from Portugal who is also part of the Awwwards Young Jury Team 2023! 🚀
 
 ### Awards: 
 - 2x Awwwards Honorable Mention
@@ -11,9 +11,9 @@
 - 1x Orpetron Web Design Appreciation
 - 1x Orpetron Site Of The Day
 
-Portfolio website: https://www.nunops.com/
+Portfolio website: https://www.nunops.com/ (currently down)
 
-📫 How to reach me: [Email](mailto:nunopereirasousa00@gmail.com), [LinkedIn](https://www.linkedin.com/in/nunops/), [Instagram](https://www.instagram.com/nuninhops/), or Discord - ItWasAPleasure#1150
+📫 How to reach me: [Email](mailto:nunopereirasousa00@gmail.com), [LinkedIn](https://www.linkedin.com/in/nunops/)
 
 "The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Black Mamba
 
