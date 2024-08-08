@@ -1,4 +1,4 @@
-### Hi there, my name is Nuno and I am a 23 years old software engineer from Portugal who is also part of the Awwwards Young Jury Team 2023! 🚀
+### Hi there, my name is Nuno and I am a 23 years old software engineer from Portugal who is also part of the Awwwards Young Jury Team! 🚀
 
 ### Awards: 
 - 2x Awwwards Honorable Mention
