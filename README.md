@@ -1,4 +1,4 @@
-### Hi there, my name is Nuno and I am a 23 years old software engineer from Portugal who is also part of the Awwwards Young Jury Team! 🚀
+### Hi there, my name is Nuno and I am a 25 years old software engineer from Portugal who is also part of the Awwwards Jury Team! 🚀
 
 ### Awards: 
 - 2x Awwwards Honorable Mention
@@ -11,7 +11,7 @@
 - 1x Orpetron Web Design Appreciation
 - 1x Orpetron Site Of The Day
 
-Portfolio website: https://www.nunops.com/ (currently down)
+Portfolio website: [https://www.nunecas.com/](https://nunecas.com/) 
 
 📫 How to reach me: [Email](mailto:nunopereirasousa00@gmail.com), [LinkedIn](https://www.linkedin.com/in/nunops/)
 
